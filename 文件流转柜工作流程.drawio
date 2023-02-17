@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-02-17T03:01:21.870Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36 Edg/110.0.1587.46" etag="m82kiorHkI_TreA0Kd-U" version="20.8.20" type="github">
+<mxfile host="app.diagrams.net" modified="2023-02-17T03:03:52.322Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36 Edg/110.0.1587.46" etag="07nuEa3hNPTDPK-L8kAb" version="20.8.20" type="github">
   <diagram name="第 1 页" id="t0VDY9cFmw80dQgUJSoD">
     <mxGraphModel dx="2026" dy="1123" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -35,7 +35,7 @@
           <mxGeometry x="125" y="605" width="130" height="85" as="geometry" />
         </mxCell>
         <mxCell id="beZ-ZouIjjW1zh5AMpfA-7" value="按部门分配文件模式" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="20" y="20" width="160" height="40" as="geometry" />
+          <mxGeometry x="110" y="10" width="160" height="40" as="geometry" />
         </mxCell>
         <mxCell id="beZ-ZouIjjW1zh5AMpfA-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=16;" edge="1" parent="1" source="beZ-ZouIjjW1zh5AMpfA-8" target="beZ-ZouIjjW1zh5AMpfA-2">
           <mxGeometry relative="1" as="geometry" />
@@ -44,7 +44,7 @@
           <mxGeometry x="130" y="190" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="beZ-ZouIjjW1zh5AMpfA-9" value="按人员分配文件" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="410" y="20" width="120" height="40" as="geometry" />
+          <mxGeometry x="510" y="10" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="beZ-ZouIjjW1zh5AMpfA-16" value="单位或科室负责人凭取件码+人脸识别进行文件收取" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="125" y="730" width="130" height="70" as="geometry" />
