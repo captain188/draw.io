@@ -1,1 +1,99 @@
-<mxfile host="app.diagrams.net" modified="2023-02-17T02:41:55.880Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36 Edg/110.0.1587.46" version="20.8.20" etag="qDNN5lrgBxYi8wXRJkfA" type="github"><diagram name="第 1 页" id="t0VDY9cFmw80dQgUJSoD">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2023-02-17T03:01:21.870Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36 Edg/110.0.1587.46" etag="m82kiorHkI_TreA0Kd-U" version="20.8.20" type="github">
+  <diagram name="第 1 页" id="t0VDY9cFmw80dQgUJSoD">
+    <mxGraphModel dx="2026" dy="1123" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="beZ-ZouIjjW1zh5AMpfA-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=16;" edge="1" parent="1" source="beZ-ZouIjjW1zh5AMpfA-1" target="beZ-ZouIjjW1zh5AMpfA-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="beZ-ZouIjjW1zh5AMpfA-1" value="管理员点击存放文件" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="130" y="80" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="beZ-ZouIjjW1zh5AMpfA-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=16;" edge="1" parent="1" source="beZ-ZouIjjW1zh5AMpfA-2" target="beZ-ZouIjjW1zh5AMpfA-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="beZ-ZouIjjW1zh5AMpfA-2" value="选择相应部门可以多选" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="130" y="290" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="beZ-ZouIjjW1zh5AMpfA-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=16;" edge="1" parent="1" source="beZ-ZouIjjW1zh5AMpfA-3" target="beZ-ZouIjjW1zh5AMpfA-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="beZ-ZouIjjW1zh5AMpfA-3" value="打开相应柜门或灵活分配柜门" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="130" y="390" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="beZ-ZouIjjW1zh5AMpfA-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=16;" edge="1" parent="1" source="beZ-ZouIjjW1zh5AMpfA-4" target="beZ-ZouIjjW1zh5AMpfA-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="beZ-ZouIjjW1zh5AMpfA-4" value="管理员将文件放入相应柜门后关闭" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="130" y="500" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="beZ-ZouIjjW1zh5AMpfA-35" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=16;" edge="1" parent="1" source="beZ-ZouIjjW1zh5AMpfA-5" target="beZ-ZouIjjW1zh5AMpfA-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="beZ-ZouIjjW1zh5AMpfA-5" value="关闭柜门后，后台短信通知该柜门所属单位/科室负责人" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="125" y="605" width="130" height="85" as="geometry" />
+        </mxCell>
+        <mxCell id="beZ-ZouIjjW1zh5AMpfA-7" value="按部门分配文件模式" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="20" y="20" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="beZ-ZouIjjW1zh5AMpfA-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=16;" edge="1" parent="1" source="beZ-ZouIjjW1zh5AMpfA-8" target="beZ-ZouIjjW1zh5AMpfA-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="beZ-ZouIjjW1zh5AMpfA-8" value="管理员选择分配模式为按部门分配" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="130" y="190" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="beZ-ZouIjjW1zh5AMpfA-9" value="按人员分配文件" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="410" y="20" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="beZ-ZouIjjW1zh5AMpfA-16" value="单位或科室负责人凭取件码+人脸识别进行文件收取" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="125" y="730" width="130" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="beZ-ZouIjjW1zh5AMpfA-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=16;" edge="1" parent="1" source="beZ-ZouIjjW1zh5AMpfA-19" target="beZ-ZouIjjW1zh5AMpfA-31">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="beZ-ZouIjjW1zh5AMpfA-19" value="管理员点击存放文件" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="510" y="80" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="beZ-ZouIjjW1zh5AMpfA-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=16;" edge="1" parent="1" source="beZ-ZouIjjW1zh5AMpfA-21" target="beZ-ZouIjjW1zh5AMpfA-23">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="beZ-ZouIjjW1zh5AMpfA-21" value="选择相应人员可以多选" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="510" y="290" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="beZ-ZouIjjW1zh5AMpfA-22" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=16;" edge="1" parent="1" source="beZ-ZouIjjW1zh5AMpfA-23" target="beZ-ZouIjjW1zh5AMpfA-25">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="beZ-ZouIjjW1zh5AMpfA-23" value="打开相应柜门或灵活分配柜门" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="510" y="390" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="beZ-ZouIjjW1zh5AMpfA-24" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=16;" edge="1" parent="1" source="beZ-ZouIjjW1zh5AMpfA-25" target="beZ-ZouIjjW1zh5AMpfA-27">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="beZ-ZouIjjW1zh5AMpfA-25" value="管理员将文件放入相应柜门后关闭" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="510" y="500" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="beZ-ZouIjjW1zh5AMpfA-26" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=16;" edge="1" parent="1" source="beZ-ZouIjjW1zh5AMpfA-27">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="570" y="720" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="beZ-ZouIjjW1zh5AMpfA-27" value="关闭柜门后，后台自动短信通知该柜门所分配人员" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="495" y="605" width="150" height="75" as="geometry" />
+        </mxCell>
+        <mxCell id="beZ-ZouIjjW1zh5AMpfA-30" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=16;" edge="1" parent="1" source="beZ-ZouIjjW1zh5AMpfA-31" target="beZ-ZouIjjW1zh5AMpfA-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="beZ-ZouIjjW1zh5AMpfA-31" value="管理员选择分配模式为按人员分配" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="510" y="190" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="beZ-ZouIjjW1zh5AMpfA-32" value="所分配人员凭取件码+人脸识别进行文件收取" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="510" y="720" width="130" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="beZ-ZouIjjW1zh5AMpfA-33" value="流转柜设计为采用十几个门作为固定分配柜，几十门灵活分配柜的模式" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="110" y="830" width="550" height="70" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
