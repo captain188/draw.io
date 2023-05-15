@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-05-15T05:34:54.701Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36 Edg/113.0.1774.35" etag="PlYfmlrDt7zXinW3dsZz" version="21.1.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-05-15T05:38:01.628Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36 Edg/113.0.1774.35" etag="g3Lpvg1tplcGpdHRRcb4" version="21.1.2" type="github">
   <diagram name="第 1 页" id="ZGUReXrhxAMjScChPt-J">
-    <mxGraphModel dx="1158" dy="1806" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1397" dy="1938" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -52,12 +52,6 @@
         <mxCell id="zEZRwrsfzdE6_7BG87i3-14" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
           <mxGeometry x="40" y="-778.75" width="500" height="190" as="geometry" />
         </mxCell>
-        <mxCell id="zEZRwrsfzdE6_7BG87i3-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="1" source="zEZRwrsfzdE6_7BG87i3-16" target="zEZRwrsfzdE6_7BG87i3-19">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="zEZRwrsfzdE6_7BG87i3-16" value="" style="verticalLabelPosition=bottom;sketch=0;aspect=fixed;html=1;verticalAlign=top;strokeColor=none;align=center;outlineConnect=0;shape=mxgraph.citrix.desktop;" vertex="1" parent="1">
-          <mxGeometry x="120" y="-732.75" width="89" height="98" as="geometry" />
-        </mxCell>
         <mxCell id="zEZRwrsfzdE6_7BG87i3-17" value="" style="verticalLabelPosition=bottom;sketch=0;aspect=fixed;html=1;verticalAlign=top;strokeColor=none;align=center;outlineConnect=0;shape=mxgraph.citrix.firewall;" vertex="1" parent="1">
           <mxGeometry x="430" y="-730.25" width="75" height="93" as="geometry" />
         </mxCell>
@@ -84,6 +78,30 @@
         </mxCell>
         <mxCell id="zEZRwrsfzdE6_7BG87i3-29" value="&lt;h2&gt;常州核心路由&lt;/h2&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;flipV=0;" vertex="1" parent="1">
           <mxGeometry x="870" y="-745.4300000000001" width="30" height="123.37" as="geometry" />
+        </mxCell>
+        <mxCell id="zEZRwrsfzdE6_7BG87i3-30" value="运维终端" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="134.5" y="-880" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="zEZRwrsfzdE6_7BG87i3-31" value="运维管理区交换机" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="287.94" y="-880" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="zEZRwrsfzdE6_7BG87i3-32" value="运维管理区防火墙" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="437.5" y="-880" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="zEZRwrsfzdE6_7BG87i3-34" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="zEZRwrsfzdE6_7BG87i3-33" target="zEZRwrsfzdE6_7BG87i3-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zEZRwrsfzdE6_7BG87i3-33" value="" style="verticalLabelPosition=bottom;sketch=0;aspect=fixed;html=1;verticalAlign=top;strokeColor=none;align=center;outlineConnect=0;shape=mxgraph.citrix.command_center;" vertex="1" parent="1">
+          <mxGeometry x="134.5" y="-731.75" width="75.5" height="96" as="geometry" />
+        </mxCell>
+        <mxCell id="zEZRwrsfzdE6_7BG87i3-35" value="保密柜安全监管平台服务器" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="126.75" y="-630" width="75.5" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="zEZRwrsfzdE6_7BG87i3-36" value="网络管理区交换机" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="287.94" y="-630" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="zEZRwrsfzdE6_7BG87i3-37" value="网络管理区防火墙" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="437.5" y="-630" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
