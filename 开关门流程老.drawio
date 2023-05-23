@@ -1,9 +1,91 @@
-<mxfile host="app.diagrams.net" modified="2023-05-23T09:10:33.949Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36 Edg/113.0.1774.50" version="21.3.2" etag="hrA0vVGNcYSY6cOg5I3I" type="github">
+<mxfile host="app.diagrams.net" modified="2023-05-23T09:25:33.041Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36 Edg/113.0.1774.50" etag="sy5iapgFAQj_b9y_I5LZ" version="21.3.2" type="github">
   <diagram name="第 1 页" id="izJ0LMEIjz0XsootpuC-">
-    <mxGraphModel>
+    <mxGraphModel dx="954" dy="576" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="JczZZoGLcIc2QyHTOoum-1" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="JczZZoGLcIc2QyHTOoum-2" target="JczZZoGLcIc2QyHTOoum-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JczZZoGLcIc2QyHTOoum-2" value="申请开门" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="130" y="120" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="JczZZoGLcIc2QyHTOoum-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="JczZZoGLcIc2QyHTOoum-4" target="JczZZoGLcIc2QyHTOoum-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JczZZoGLcIc2QyHTOoum-4" value="开始" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="130" y="20" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="JczZZoGLcIc2QyHTOoum-5" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;通过&lt;/font&gt;" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="JczZZoGLcIc2QyHTOoum-8" target="JczZZoGLcIc2QyHTOoum-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JczZZoGLcIc2QyHTOoum-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="JczZZoGLcIc2QyHTOoum-8" target="JczZZoGLcIc2QyHTOoum-20">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="570" y="275" />
+              <mxPoint x="570" y="940" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="JczZZoGLcIc2QyHTOoum-7" value="未通过" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=15;" vertex="1" connectable="0" parent="JczZZoGLcIc2QyHTOoum-6">
+          <mxGeometry x="-0.8584" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="JczZZoGLcIc2QyHTOoum-8" value="审批请求" style="rhombus;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="110" y="230" width="160" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="JczZZoGLcIc2QyHTOoum-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="JczZZoGLcIc2QyHTOoum-10" target="JczZZoGLcIc2QyHTOoum-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JczZZoGLcIc2QyHTOoum-10" value="正常开门" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="130" y="525" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="JczZZoGLcIc2QyHTOoum-11" value="门磁打开" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=15;" edge="1" parent="1" source="JczZZoGLcIc2QyHTOoum-14" target="JczZZoGLcIc2QyHTOoum-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JczZZoGLcIc2QyHTOoum-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="JczZZoGLcIc2QyHTOoum-22" target="JczZZoGLcIc2QyHTOoum-20">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="510" y="410" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="570" y="415" />
+              <mxPoint x="570" y="940" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="JczZZoGLcIc2QyHTOoum-13" value="门磁未打开" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=15;" edge="1" parent="1" source="JczZZoGLcIc2QyHTOoum-14" target="JczZZoGLcIc2QyHTOoum-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JczZZoGLcIc2QyHTOoum-14" value="门磁识别" style="rhombus;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="110" y="370" width="160" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="JczZZoGLcIc2QyHTOoum-15" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;门磁关闭&lt;/font&gt;" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=15;" edge="1" parent="1" source="JczZZoGLcIc2QyHTOoum-17" target="JczZZoGLcIc2QyHTOoum-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JczZZoGLcIc2QyHTOoum-16" value="门磁未关闭" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=15;" edge="1" parent="1" source="JczZZoGLcIc2QyHTOoum-17" target="JczZZoGLcIc2QyHTOoum-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JczZZoGLcIc2QyHTOoum-17" value="门磁识别" style="rhombus;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="110" y="650" width="160" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="JczZZoGLcIc2QyHTOoum-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="JczZZoGLcIc2QyHTOoum-19" target="JczZZoGLcIc2QyHTOoum-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JczZZoGLcIc2QyHTOoum-19" value="正常关门" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="130" y="800" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="JczZZoGLcIc2QyHTOoum-20" value="结束" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="130" y="910" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="JczZZoGLcIc2QyHTOoum-21" value="超时门未关" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="390" y="665" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="JczZZoGLcIc2QyHTOoum-22" value="本次请求超时" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="390" y="385" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="JczZZoGLcIc2QyHTOoum-23" value="&lt;font style=&quot;font-size: 19px;&quot;&gt;有门磁开关门流程&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="340" y="80" width="180" height="40" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
