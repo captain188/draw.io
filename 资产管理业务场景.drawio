@@ -1,9 +1,132 @@
-<mxfile host="app.diagrams.net" modified="2023-08-19T02:02:28.809Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36 Edg/115.0.1901.203" version="21.6.5" etag="DQRCkIaGo0KngOwBsNEv" type="github">
+<mxfile host="app.diagrams.net" modified="2023-08-19T02:41:17.770Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36 Edg/115.0.1901.203" etag="ZpS7-_q30UTmu1I18lze" version="21.6.5" type="github">
   <diagram name="第 1 页" id="UMI_E65sAYWuseIEz279">
-    <mxGraphModel>
+    <mxGraphModel dx="4052" dy="2230" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="MeXptbbEW1wKsibmXblL-2" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="70" y="310" width="370" height="620" as="geometry" />
+        </mxCell>
+        <mxCell id="MeXptbbEW1wKsibmXblL-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="MeXptbbEW1wKsibmXblL-3" target="MeXptbbEW1wKsibmXblL-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="MeXptbbEW1wKsibmXblL-3" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="540" y="310" width="370" height="620" as="geometry" />
+        </mxCell>
+        <mxCell id="MeXptbbEW1wKsibmXblL-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.233;entryDx=0;entryDy=0;entryPerimeter=0;startArrow=classic;startFill=1;" edge="1" parent="1" source="MeXptbbEW1wKsibmXblL-4" target="MeXptbbEW1wKsibmXblL-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="MeXptbbEW1wKsibmXblL-4" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1010" y="310" width="330" height="290" as="geometry" />
+        </mxCell>
+        <mxCell id="MeXptbbEW1wKsibmXblL-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="MeXptbbEW1wKsibmXblL-5">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="913" y="790" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1010" y="790" />
+              <mxPoint x="913" y="790" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MeXptbbEW1wKsibmXblL-5" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1010" y="680" width="330" height="250" as="geometry" />
+        </mxCell>
+        <mxCell id="MeXptbbEW1wKsibmXblL-6" value="资产领用" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d0cee2;strokeColor=#56517e;fontSize=17;" vertex="1" parent="1">
+          <mxGeometry x="1040" y="360" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="MeXptbbEW1wKsibmXblL-7" value="资产借用" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d0cee2;strokeColor=#56517e;fontSize=17;" vertex="1" parent="1">
+          <mxGeometry x="1190" y="360" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="MeXptbbEW1wKsibmXblL-8" value="资产配发" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d0cee2;strokeColor=#56517e;fontSize=17;" vertex="1" parent="1">
+          <mxGeometry x="1040" y="430" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="MeXptbbEW1wKsibmXblL-9" value="资产归还" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d0cee2;strokeColor=#56517e;fontSize=17;" vertex="1" parent="1">
+          <mxGeometry x="1190" y="430" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="MeXptbbEW1wKsibmXblL-10" value="资产配发" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d0cee2;strokeColor=#56517e;fontSize=17;" vertex="1" parent="1">
+          <mxGeometry x="1040" y="500" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="MeXptbbEW1wKsibmXblL-11" value="资产报废" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d0cee2;strokeColor=#56517e;fontSize=17;" vertex="1" parent="1">
+          <mxGeometry x="1190" y="500" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="MeXptbbEW1wKsibmXblL-12" value="用户" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=19;" vertex="1" parent="1">
+          <mxGeometry x="1145" y="320" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="MeXptbbEW1wKsibmXblL-13" value="管理员" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=19;" vertex="1" parent="1">
+          <mxGeometry x="1145" y="690" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="MeXptbbEW1wKsibmXblL-14" value="资产管理" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d0cee2;strokeColor=#56517e;fontSize=17;" vertex="1" parent="1">
+          <mxGeometry x="1040" y="740" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="MeXptbbEW1wKsibmXblL-15" value="资产盘点" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d0cee2;strokeColor=#56517e;fontSize=17;" vertex="1" parent="1">
+          <mxGeometry x="1181" y="740" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="MeXptbbEW1wKsibmXblL-16" value="报警处理" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d0cee2;strokeColor=#56517e;fontSize=17;" vertex="1" parent="1">
+          <mxGeometry x="1040" y="830" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="MeXptbbEW1wKsibmXblL-17" value="出入库管理" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d0cee2;strokeColor=#56517e;fontSize=17;" vertex="1" parent="1">
+          <mxGeometry x="1181" y="830" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="MeXptbbEW1wKsibmXblL-19" value="登记审批" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontSize=17;" vertex="1" parent="1">
+          <mxGeometry x="580" y="380" width="290" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="MeXptbbEW1wKsibmXblL-20" value="在位检测" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontSize=17;" vertex="1" parent="1">
+          <mxGeometry x="580" y="470" width="290" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="MeXptbbEW1wKsibmXblL-21" value="异常报警" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontSize=17;" vertex="1" parent="1">
+          <mxGeometry x="580" y="560" width="290" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="MeXptbbEW1wKsibmXblL-22" value="日志管理" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontSize=17;" vertex="1" parent="1">
+          <mxGeometry x="580" y="650" width="290" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="MeXptbbEW1wKsibmXblL-23" value="权限管理" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontSize=17;" vertex="1" parent="1">
+          <mxGeometry x="580" y="740" width="290" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="MeXptbbEW1wKsibmXblL-24" value="自动盘点" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontSize=17;" vertex="1" parent="1">
+          <mxGeometry x="580" y="830" width="290" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="MeXptbbEW1wKsibmXblL-25" value="资产管理系统" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=19;" vertex="1" parent="1">
+          <mxGeometry x="662.5" y="320" width="125" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="MeXptbbEW1wKsibmXblL-26" value="RFID标签" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontSize=17;" vertex="1" parent="1">
+          <mxGeometry x="120" y="380" width="110" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="MeXptbbEW1wKsibmXblL-27" value="RFID发卡设备" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontSize=17;" vertex="1" parent="1">
+          <mxGeometry x="290" y="380" width="110" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="MeXptbbEW1wKsibmXblL-29" value="资产管理设备" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=19;" vertex="1" parent="1">
+          <mxGeometry x="192.5" y="320" width="125" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="MeXptbbEW1wKsibmXblL-30" value="RFID手持阅读器" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontSize=17;" vertex="1" parent="1">
+          <mxGeometry x="120" y="510" width="110" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="MeXptbbEW1wKsibmXblL-31" value="RFID门型通道阅读器" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontSize=17;" vertex="1" parent="1">
+          <mxGeometry x="290" y="510" width="110" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="MeXptbbEW1wKsibmXblL-32" value="RFID多通道阅读器" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontSize=17;" vertex="1" parent="1">
+          <mxGeometry x="120" y="640" width="110" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="MeXptbbEW1wKsibmXblL-33" value="库房门禁" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontSize=17;" vertex="1" parent="1">
+          <mxGeometry x="290" y="640" width="110" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="MeXptbbEW1wKsibmXblL-34" value="RFID打印机" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontSize=17;" vertex="1" parent="1">
+          <mxGeometry x="120" y="770" width="110" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="MeXptbbEW1wKsibmXblL-35" value="RFID资产管理柜" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontSize=17;" vertex="1" parent="1">
+          <mxGeometry x="290" y="770" width="110" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="MeXptbbEW1wKsibmXblL-40" value="标签信息传递" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=19;" vertex="1" parent="1">
+          <mxGeometry x="480" y="520" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="MeXptbbEW1wKsibmXblL-43" value="身份识别" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=19;" vertex="1" parent="1">
+          <mxGeometry x="950" y="710" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="MeXptbbEW1wKsibmXblL-45" value="物品信息同步" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=19;" vertex="1" parent="1">
+          <mxGeometry x="950" y="360" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="MeXptbbEW1wKsibmXblL-46" value="审批信息传递" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=19;" vertex="1" parent="1">
+          <mxGeometry x="955" y="470" width="20" height="120" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
