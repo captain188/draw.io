@@ -86,7 +86,7 @@
           <mxGeometry x="845.5" y="475.5" width="110" height="40" as="geometry" />
         </mxCell>
         <mxCell id="ST7Q-PoKFSPQThEERPkX-16" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;与申请一致，更新平台日志信息&lt;/font&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="870" y="210" width="117.5" height="44.5" as="geometry" />
+          <mxGeometry x="733" y="210" width="117.5" height="44.5" as="geometry" />
         </mxCell>
         <mxCell id="ST7Q-PoKFSPQThEERPkX-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="ST7Q-PoKFSPQThEERPkX-18" target="ST7Q-PoKFSPQThEERPkX-10" edge="1">
           <mxGeometry relative="1" as="geometry">
