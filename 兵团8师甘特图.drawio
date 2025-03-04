@@ -1,9 +1,87 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36 Edg/133.0.0.0" version="26.0.16">
   <diagram name="第 1 页" id="J0wBBoqBDd3hU2CPYiLS">
-    <mxGraphModel>
+    <mxGraphModel dx="561" dy="308" grid="1" gridSize="1" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="qozdfu52yqEnF6LgNysH-1" value="" style="align=left;strokeColor=#CCCCCC;html=1;" vertex="1" parent="1">
+          <mxGeometry x="218" y="230" width="718" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="qozdfu52yqEnF6LgNysH-2" value="第一周" style="strokeWidth=1;fontStyle=0;html=1;" vertex="1" parent="1">
+          <mxGeometry x="218" y="210" width="70" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="qozdfu52yqEnF6LgNysH-3" value="第二周" style="strokeWidth=1;fontStyle=0;html=1;" vertex="1" parent="1">
+          <mxGeometry x="288" y="210" width="70" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="qozdfu52yqEnF6LgNysH-4" value="第三周" style="strokeWidth=1;fontStyle=0;html=1;" vertex="1" parent="1">
+          <mxGeometry x="358" y="210" width="70" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="qozdfu52yqEnF6LgNysH-5" value="第四周" style="strokeWidth=1;fontStyle=0;html=1;" vertex="1" parent="1">
+          <mxGeometry x="428" y="210" width="70" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="qozdfu52yqEnF6LgNysH-6" value="第五周" style="strokeWidth=1;fontStyle=0;html=1;" vertex="1" parent="1">
+          <mxGeometry x="498" y="210" width="70" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="qozdfu52yqEnF6LgNysH-7" value="第六周" style="strokeWidth=1;fontStyle=0;html=1;" vertex="1" parent="1">
+          <mxGeometry x="568" y="210" width="73" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="qozdfu52yqEnF6LgNysH-8" value="" style="align=left;strokeColor=#CCCCCC;html=1;" vertex="1" parent="1">
+          <mxGeometry x="218" y="250" width="718" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="qozdfu52yqEnF6LgNysH-9" value="" style="align=left;strokeColor=#CCCCCC;html=1;" vertex="1" parent="1">
+          <mxGeometry x="218" y="270" width="718" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="qozdfu52yqEnF6LgNysH-10" value="" style="align=left;strokeColor=#CCCCCC;html=1;" vertex="1" parent="1">
+          <mxGeometry x="218" y="290" width="718" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="qozdfu52yqEnF6LgNysH-11" value="" style="align=left;strokeColor=#CCCCCC;html=1;" vertex="1" parent="1">
+          <mxGeometry x="218" y="310" width="718" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="qozdfu52yqEnF6LgNysH-12" value="" style="whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#CCCCCC;gradientColor=none;fontSize=14;align=center;strokeColor=#999999;" vertex="1" parent="1">
+          <mxGeometry x="218" y="230" width="70" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="qozdfu52yqEnF6LgNysH-13" value="" style="whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#CCCCCC;gradientColor=none;fontSize=14;align=center;strokeColor=#999999;" vertex="1" parent="1">
+          <mxGeometry x="258" y="250" width="172" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="qozdfu52yqEnF6LgNysH-14" value="" style="whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#CCCCCC;gradientColor=none;fontSize=14;align=center;strokeColor=#999999;" vertex="1" parent="1">
+          <mxGeometry x="430" y="270" width="36" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="qozdfu52yqEnF6LgNysH-15" value="" style="whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#CCCCCC;gradientColor=none;fontSize=14;align=center;strokeColor=#999999;" vertex="1" parent="1">
+          <mxGeometry x="430" y="290" width="432" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="qozdfu52yqEnF6LgNysH-16" value="" style="whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#CCCCCC;gradientColor=none;fontSize=14;align=center;strokeColor=#999999;" vertex="1" parent="1">
+          <mxGeometry x="862" y="310" width="73" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="qozdfu52yqEnF6LgNysH-17" value="第七周" style="strokeWidth=1;fontStyle=0;html=1;" vertex="1" parent="1">
+          <mxGeometry x="642" y="210" width="73" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="qozdfu52yqEnF6LgNysH-18" value="第八周" style="strokeWidth=1;fontStyle=0;html=1;" vertex="1" parent="1">
+          <mxGeometry x="716" y="210" width="73" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="qozdfu52yqEnF6LgNysH-19" value="前期调研" style="align=left;strokeColor=#CCCCCC;html=1;" vertex="1" parent="1">
+          <mxGeometry x="100.00000000000014" y="229.99999999999972" width="117.99999999999986" height="19.999999999999943" as="geometry" />
+        </mxCell>
+        <mxCell id="qozdfu52yqEnF6LgNysH-20" value="生产制造" style="align=left;strokeColor=#CCCCCC;html=1;" vertex="1" parent="1">
+          <mxGeometry x="100.00000000000004" y="250.00000000000009" width="117.99999999999997" height="19.99999999999993" as="geometry" />
+        </mxCell>
+        <mxCell id="qozdfu52yqEnF6LgNysH-21" value="监管平台部署" style="align=left;strokeColor=#CCCCCC;html=1;" vertex="1" parent="1">
+          <mxGeometry x="100" y="270" width="118.00000000000001" height="19.99999999999993" as="geometry" />
+        </mxCell>
+        <mxCell id="qozdfu52yqEnF6LgNysH-22" value="保密柜改造和安装" style="align=left;strokeColor=#CCCCCC;html=1;" vertex="1" parent="1">
+          <mxGeometry x="100" y="290.00000000000017" width="118.00000000000001" height="19.99999999999993" as="geometry" />
+        </mxCell>
+        <mxCell id="qozdfu52yqEnF6LgNysH-23" value="任务" style="strokeWidth=1;fontStyle=0;html=1;" vertex="1" parent="1">
+          <mxGeometry x="100.00000000000004" y="210" width="117.99999999999997" height="19.99999999999993" as="geometry" />
+        </mxCell>
+        <mxCell id="qozdfu52yqEnF6LgNysH-24" value="项目验收" style="align=left;strokeColor=#CCCCCC;html=1;" vertex="1" parent="1">
+          <mxGeometry x="100.00000000000027" y="310.00000000000006" width="117.99999999999973" height="19.99999999999993" as="geometry" />
+        </mxCell>
+        <mxCell id="qozdfu52yqEnF6LgNysH-25" value="第九周" style="strokeWidth=1;fontStyle=0;html=1;" vertex="1" parent="1">
+          <mxGeometry x="790" y="210" width="73" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="qozdfu52yqEnF6LgNysH-26" value="第十周" style="strokeWidth=1;fontStyle=0;html=1;" vertex="1" parent="1">
+          <mxGeometry x="863" y="210" width="73" height="20" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
