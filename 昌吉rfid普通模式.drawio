@@ -49,17 +49,39 @@
         <mxCell id="-Nr95Fwms7loR5fY5DMc-13" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;font style=&quot;font-size: 19px;&quot;&gt;选择取出的物品（可多选）&lt;/font&gt;" vertex="1">
           <mxGeometry height="60" width="120" x="595" y="330" as="geometry" />
         </mxCell>
-        <mxCell id="-Nr95Fwms7loR5fY5DMc-27" edge="1" parent="1" source="-Nr95Fwms7loR5fY5DMc-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="-Nr95Fwms7loR5fY5DMc-21" value="">
+        <mxCell id="-Nr95Fwms7loR5fY5DMc-29" edge="1" parent="1" source="-Nr95Fwms7loR5fY5DMc-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="-Nr95Fwms7loR5fY5DMc-28" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="-Nr95Fwms7loR5fY5DMc-15" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;font style=&quot;font-size: 19px;&quot;&gt;取出，关门盘点&lt;/font&gt;" vertex="1">
           <mxGeometry height="60" width="120" x="595" y="440" as="geometry" />
         </mxCell>
         <mxCell id="-Nr95Fwms7loR5fY5DMc-21" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;span style=&quot;font-size: 19px;&quot;&gt;按照实际的读取情况出入库，不参考选择的数据&lt;/span&gt;" vertex="1">
-          <mxGeometry height="120" width="150" x="580" y="585" as="geometry" />
+          <mxGeometry height="120" width="150" x="580" y="770" as="geometry" />
         </mxCell>
         <mxCell id="-Nr95Fwms7loR5fY5DMc-26" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;font style=&quot;font-size: 19px;&quot;&gt;按照实际的读取情况出入库，不参考选择的数据&lt;/font&gt;" vertex="1">
           <mxGeometry height="120" width="150" x="190" y="585" as="geometry" />
+        </mxCell>
+        <mxCell id="-Nr95Fwms7loR5fY5DMc-30" edge="1" parent="1" source="-Nr95Fwms7loR5fY5DMc-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="-Nr95Fwms7loR5fY5DMc-21" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-Nr95Fwms7loR5fY5DMc-31" connectable="0" parent="-Nr95Fwms7loR5fY5DMc-30" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;没读到&lt;/font&gt;" vertex="1">
+          <mxGeometry relative="1" x="-0.0286" y="3" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-Nr95Fwms7loR5fY5DMc-34" edge="1" parent="1" source="-Nr95Fwms7loR5fY5DMc-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="-Nr95Fwms7loR5fY5DMc-33" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-Nr95Fwms7loR5fY5DMc-35" connectable="0" parent="-Nr95Fwms7loR5fY5DMc-34" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;读到了&lt;/font&gt;" vertex="1">
+          <mxGeometry relative="1" x="-0.1778" y="-3" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-Nr95Fwms7loR5fY5DMc-28" parent="1" style="rhombus;whiteSpace=wrap;html=1;" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;判断读取&lt;/span&gt;" vertex="1">
+          <mxGeometry height="150" width="150" x="580" y="550" as="geometry" />
+        </mxCell>
+        <mxCell id="-Nr95Fwms7loR5fY5DMc-33" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;font style=&quot;font-size: 19px;&quot;&gt;报错提示用户取错了，请用户核对取出物品，并再次开门。&lt;/font&gt;" vertex="1">
+          <mxGeometry height="120" width="150" x="820" y="565" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
