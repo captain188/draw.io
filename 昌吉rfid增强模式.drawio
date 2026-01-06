@@ -78,9 +78,6 @@
         <mxCell id="AJqwKmolxy0oEWc-3Yau-25" value="&lt;font style=&quot;font-size: 19px;&quot;&gt;报错提示用户取错了，请用户核对取出物品，并再次开门。&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="810" y="600" width="150" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="AJqwKmolxy0oEWc-3Yau-28" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;增强模式&lt;/font&gt;" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="130" y="60" width="136" height="30" as="geometry" />
-        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
